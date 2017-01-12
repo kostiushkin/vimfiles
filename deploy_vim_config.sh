@@ -8,3 +8,4 @@ git clone https://github.com/jimenezrick/vimerl ~/.vim/bundle/vimerl
 git clone https://github.com/kien/ctrlp.vim ~/.vim/bundle/ctrlp.vim
 git clone https://github.com/scrooloose/nerdtree ~/.vim/bundle/nerdtree
 git clone https://github.com/jistr/vim-nerdtree-tabs ~/.vim/bundle/vim-nerdtree-tabs
+git clone https://github.com/lambdatoast/elm.vim ~/.vim/bundle/elm.vim
